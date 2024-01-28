@@ -2,7 +2,7 @@ Welcome to my AICP internship tasks repository. This repository contains the tas
 
 ## Tasks
 
-- Task Week 1: [Basics of NUmpy]
+- Task Week 1: [Basics of Numpy]
 
 
 
