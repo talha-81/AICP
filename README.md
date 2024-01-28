@@ -5,7 +5,7 @@
 
 ## Directory Structure
 
-- /task-1
+- /AICP Internship Task Week 1.ipynb
   - [numpy s]
 
 
