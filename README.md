@@ -1,12 +1,9 @@
+Welcome to my AICP internship tasks repository. This repository contains the tasks I have completed during my AICP internship. Each task is organized within its own directory, along with relevant documentation and code.
+
 ## Tasks
 
-- Task 1: [NUmpy]
+- Task Week 1: [Basics of NUmpy]
 
-
-## Directory Structure
-
-- /AICP Internship Task Week 1.ipynb
-  - [numpy s]
 
 
 ## Getting Started
