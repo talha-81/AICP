@@ -6,6 +6,8 @@ Welcome to my AICP internship tasks repository. This repository contains the tas
 - Task Week 2: [Basics of pandas]
 - Task Week 3: [Basics of Data Visualization : Ploting differnet types of Graph]
 - Task Week 4: [McDonald's Menu Nutritional Facts Analysis]
+- Task Week 5: [instagram Dataset Analysis]
+- Task Week 6: [Birth Dataset Analysis]
 
 
 
